@@ -7,9 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Fcomponent></Fcomponent>
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="logo"/>
         <p>
-          Hello wo
+          Hello world
         </p>
         <a
           className="App-link"
