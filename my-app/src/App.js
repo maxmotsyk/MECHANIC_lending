@@ -9,7 +9,7 @@ function App() {
         <Fcomponent></Fcomponent>
         <img src={logo} className="App-logo" alt="logo"/>
         <p>
-          Hello world
+          Hello boss
         </p>
         <a
           className="App-link"
