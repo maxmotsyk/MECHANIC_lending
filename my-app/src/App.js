@@ -8,9 +8,7 @@ function App() {
       <header className="App-header">
         <Fcomponent></Fcomponent>
         <img src={logo} className="App-logo" alt="logo"/>
-        <p>
-          Hello boss
-        </p>
+
         <a
           className="App-link"
           href="https://reactjs.org"
